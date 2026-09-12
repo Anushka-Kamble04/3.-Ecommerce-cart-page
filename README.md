@@ -25,14 +25,14 @@ A simple e-commerce cart application built using HTML, CSS, and JavaScript. User
 
 ## Live Demo
 
-[View Live Demo](https://anushka-kamble04.github.io/3.-Ecommerce-cart-page/)
+[View Live Demo](https://anushka-kamble04.github.io/ecommerce-cart-page/)
 
 ## How to Run
 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Anushka-Kamble04/e-commerce-cart.git
+   git clone https://github.com/Anushka-Kamble04/ecommerce-cart-page.git
    ```
 2. Open the project folder.
 3. Open `index.html` in your browser.
